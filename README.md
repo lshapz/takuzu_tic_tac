@@ -1,11 +1,19 @@
-binary puzzle
-Takuzu
-binoxxo
-tic-tac-logic 
-Binairo
-Tohu wa Vohu
-Eins und Zwei
-Zernero
+-binary puzzle
+
+-Takuzu
+
+-binoxxo
+
+-tic-tac-logic 
+
+-Binairo
+
+-Tohu wa Vohu
+
+-Eins und Zwei
+
+-Zernero
+
 
 
 http://www.nearly42.org/vdisk/cstheory/binaryp.pdf

@@ -31,6 +31,6 @@ class OneRow
   end
 
 end
-foo = OnePuzzle.new(16)
+foo = OneRow.new(16)
 foo.generate_row_one
 p foo.grid

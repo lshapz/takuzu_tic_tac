@@ -9,7 +9,7 @@ class OneColumn
   end
 
   def generate_column_one   
-    (0..@size).each do |column|
+    (0..@size-1).each do |column|
       assign_a_place(column)
     end
   end

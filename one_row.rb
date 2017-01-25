@@ -9,7 +9,7 @@ class OneRow
   end
 
   def generate_row_one   
-    (0..@size).each do |row_one|
+    (0..@size-1).each do |row_one|
       assign_a_place(row_one)
     end
   end
